@@ -1,0 +1,9 @@
+known issues(08 April 2014): 
+- "" are needed around the command
+- If incorrect sudo password is entered, it acts as though
+	the password was entered incorrectly 3 times
+- Can easily be traced back to user
+- Need to put all this into subprocess to avoid
+	any noticable user performance
+- Possibly create own smtp server to send email
+	without showing the username / password
