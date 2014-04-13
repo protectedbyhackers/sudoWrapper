@@ -1,6 +1,8 @@
 This is a wrapper to use on linux machines that have python installed.
 It is be developed for use against ubuntu12.04 and later as this operation system is becoming very popular.
 
+Right now the mailutils is needed for the system as it does not come preinstalled on the system, however I am experimenting with a copied binary to the main directory.
+
 This project is strictly for educational purposes. This is being created for use by a penetration testing company when physical access to a computer is granted. 
 
-If you have any problems or suggestions please email protectedbyhackers@gmail.com with sudoWrapper in the subject line.
+If you have any problems or suggestions please email logixmorg@gmail.com with sudoWrapper in the subject line.
